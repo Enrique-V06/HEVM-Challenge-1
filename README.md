@@ -36,7 +36,7 @@ The subjects in the top bar of the page when clicked point towards the section l
 
 The code refactor was done by Hector Vazquez (myself) using the original code from octo-urban
 
-## License
+## Link to deployed application
 
-N/A
+https://enrique-v06.github.io/HEVM-Challenge-1/ 
 
