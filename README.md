@@ -25,10 +25,10 @@ N/A
 
 The subjects in the top bar of the page when clicked point towards the section lower section of the page which provides the visitor with additional information about Horiseon, shown in the screenshots below:
 
-![alt text](./Refactor/assets/images/Top_bar.jpg)
+![alt text](./assets/images/Top_bar.jpg)
 1.Shows the top-bar with the subjects
 
-![alt text](./Refactor/assets/images/additional_info.jpg)
+![alt text](./assets/images/additional_info.jpg)
 
 2.Shows the additional information section os the page
 
